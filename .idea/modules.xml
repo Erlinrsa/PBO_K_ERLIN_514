@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modul 2/Codelab/Codelab1/Codelab1.iml" filepath="$PROJECT_DIR$/Modul 2/Codelab/Codelab1/Codelab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul 2/Codelab/Codelab2/Codelab2.iml" filepath="$PROJECT_DIR$/Modul 2/Codelab/Codelab2/Codelab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul 1/Modul 1.iml" filepath="$PROJECT_DIR$/Modul 1/Modul 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modu l3/Modul3.iml" filepath="$PROJECT_DIR$/Modu l3/Modul3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PBO.iml" filepath="$PROJECT_DIR$/.idea/PBO.iml" />
+    </modules>
+  </component>
+</project>
