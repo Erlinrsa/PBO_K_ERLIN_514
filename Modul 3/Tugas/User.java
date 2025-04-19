@@ -36,4 +36,3 @@ public class User {
         System.out.println("Informasi pengguna.");
     }
 }
-

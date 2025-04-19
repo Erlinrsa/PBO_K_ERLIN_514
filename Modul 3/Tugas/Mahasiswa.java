@@ -16,4 +16,3 @@ public class Mahasiswa extends User {
         System.out.println("NIM : " + getNim());
     }
 }
-
