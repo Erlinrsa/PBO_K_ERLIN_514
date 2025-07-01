@@ -42,7 +42,7 @@ public class ManajemenStok {
                         System.out.println("Stok barang kosong.");
                     } else {
                         Iterator<Barang> it = daftarBarang.iterator();
-                        int index = 0;1
+                        int index = 0;
                         while (it.hasNext()) {
                             Barang b = it.next();
                             System.out.println(index + ". Nama: " + b.getNama() + ", Stok: " + b.getStok());
